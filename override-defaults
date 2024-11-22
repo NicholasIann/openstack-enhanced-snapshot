@@ -1,0 +1,3 @@
+# Override default values for the Enhanced Snapshot Plugin
+# Snapshot creation interval in hours
+SNAPSHOT_INTERVAL=24
