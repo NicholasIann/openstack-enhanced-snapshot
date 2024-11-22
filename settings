@@ -1,0 +1,5 @@
+# Settings for the Enhanced Snapshot Plugin
+# Snapshot naming convention
+SNAPSHOT_NAME_PREFIX="auto-snapshot-"
+# Log file path for the plugin
+LOG_FILE=/var/log/openstack/enhanced_snapshot.log
